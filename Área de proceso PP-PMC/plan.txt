@@ -1,0 +1,9 @@
+------------- Plan de proyecto ---------------
+
+El texto encerrado entre { } y de color rojo debe ser reemplazado
+ por el texto que corresponda, y debe cambiarse el color de fuente a negro.]
+
+
+El texto encerrado entre [ ] y de color azul está incluido solamente como 
+guía para aclarar el contenido de cada parte del documento.
+ Esos textos deben ser eliminados del documento.
